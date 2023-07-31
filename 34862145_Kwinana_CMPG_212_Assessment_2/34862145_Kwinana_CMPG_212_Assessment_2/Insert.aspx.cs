@@ -35,6 +35,7 @@ namespace _34862145_Kwinana_CMPG_212_Assessment_2
             else if(this.rdGreen.Checked)
             {
                 color = "Green";
+                
             }
         }
 
